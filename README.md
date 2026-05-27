@@ -5,7 +5,7 @@ This repository contains a comprehensive terrain visualization and spatial analy
 ## Project Preview
 ![Switzerland Topographic Relief](Topographic Relief of Switzerland.png)
 
-🛒 [Get the full high-quality GIS bundle on Payhip](https://payhip.com/b/jovYf)
+🛒(https://payhip.com/b/jovYf)
 ## Repository Structure
 ```text
 ├── 01_Maps_Print_Ready/   # High-quality 300 DPI exported layouts (Dark Mode Template)
