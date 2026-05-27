@@ -3,9 +3,9 @@
 This repository contains a comprehensive terrain visualization and spatial analysis project for Switzerland. The workflow integrates raw global elevation models, professional cartographic styling, and a localized Swiss Coordinate Reference System (CRS) projection.
 
 ## Project Preview
-![Switzerland Topographic Relief] https://payhip.com/b/JovVf
-*(Note: Upload your exported 300 DPI map image to your repository and replace this placeholder name)*
+![Switzerland Topographic Relief](Topographic Relief of Switzerland.png)
 
+🛒 [Get the full high-quality GIS bundle on Payhip](https://payhip.com/b/jovYf)
 ## Repository Structure
 ```text
 ├── 01_Maps_Print_Ready/   # High-quality 300 DPI exported layouts (Dark Mode Template)
